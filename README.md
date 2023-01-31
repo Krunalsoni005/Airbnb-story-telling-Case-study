@@ -4,7 +4,7 @@ Objective:-
 The present case study aims to help Airbnb prepare in the best way for the post-pandemic changes and help increase their revenue.
 To analyze key findings based on customer preference for business growth, expansion and strengthen the business foundation for upcoming endeavors. 
 
-Steps Done onn Projet:-
+Steps Done on Project:-
           1.Business Understandings. 2. Exploratory Data Analysis in python 3.Data cleaning and wrangling using pyhon 4. Data Visulisation using Tableau.5.finding key insights 6.Making presentation Analysis of arbnb 2019 and bussiness insights of airbnb 7. Methodilogical Documents
           
  Recommedation :-
